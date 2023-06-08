@@ -1,0 +1,1 @@
+# Alzhiemers-Disease-Detection-using-Lohistic-Regressione
