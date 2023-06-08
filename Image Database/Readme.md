@@ -1,2 +1,3 @@
 
-This contains the data set information
+This folder contains the code to train the machine learning model.
+
